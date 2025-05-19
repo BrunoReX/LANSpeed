@@ -122,7 +122,7 @@ namespace LANSpeed
                                 lblSpeed.ForeColor = Color.Green;
                                 break;
                             case 800000:
-                                speedReadable = "400 GbE";
+                                speedReadable = "800 GbE";
                                 lblSpeed.ForeColor = Color.Green;
                                 break;
                             default:
